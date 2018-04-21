@@ -1,0 +1,24 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "App to find friends",
+  "main": "home.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mark5046/FriendFinder.git"
+  },
+  "author": "Mark Iudice",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mark5046/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/mark5046/FriendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "path": "^0.12.7"
+  }
+}

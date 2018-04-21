@@ -1,0 +1,59 @@
+var friends = [
+{
+    "name":"Angry Bear",
+    "photo":"https://i.kinja-img.com/gawker-media/image/upload/s--FAcJwdC9--/c_scale,fl_progressive,q_80,w_800/17wvyw7w0fwtijpg.jpg",
+    "scores":[
+        3,
+        5,
+        1,
+        4,
+        2
+    ]
+},
+{
+    "name":"House Cat",
+    "photo":"http://www.petsfoto.com/wp-content/uploads/2010/08/Cat82.jpg",
+    "scores":[
+        5,
+        4,
+        1,
+        5,
+        4
+    ]
+},
+{
+    "name":"Parrot",
+    "photo":"https://d2kwjcq8j5htsz.cloudfront.net/2015/04/12163111/parrot-feet.jpg",
+    "scores":[
+        4,
+        3,
+        2,
+        3,
+        5
+    ]
+},
+{
+    "name":"Dog",
+    "photo":"https://i.ytimg.com/vi/SfLV8hD7zX4/maxresdefault.jpg",
+    "scores":[
+        3,
+        5,
+        5,
+        5,
+        2
+    ]
+},
+{
+    "name":"Fish",
+    "photo":"https://thumbs-prod.si-cdn.com/c86on9yeBmn5_G7b4ng_ZQWjiII=/800x600/filters:no_upscale()/https://public-media.smithsonianmag.com/filer/d6/93/d6939718-4e41-44a8-a8f3-d13648d2bcd0/c3npbx.jpg",
+    "scores":[
+        1,
+        2,
+        1,
+        2,
+        1
+    ]
+}
+];
+
+module.exports = friends;
